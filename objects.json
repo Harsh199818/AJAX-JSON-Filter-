@@ -1,0 +1,62 @@
+[
+{
+	"Name":"Arya",
+	"House": "Stark",
+	"Status": "Alive"
+},
+
+{
+	"Name":"Jon",
+	"House": "Targaryen",
+	"Status": "Alive"
+},
+
+{
+	"Name":"Sansa",
+	"House": "Stark",
+	"Status": "Alive"
+},
+
+{
+	"Name":"Dany",
+	"House": "Targaryen",
+	"Status": "Alive"
+},
+
+{
+	"Name":"Catlynn",
+	"House": "Stark",
+	"Status": "Dead"
+},
+
+{
+	"Name":"Robert",
+	"House": "Baratheon",
+	"Status": "Dead"
+},
+
+{
+	"Name":"Tyvin",
+	"House": "Lannister",
+	"Status": "Dead"
+},
+
+{
+	"Name":"Jaimme",
+	"House": "Lannister",
+	"Status": "Alive"
+},
+
+{
+	"Name":"Ned",
+	"House": "Stark",
+	"Status": "Dead"
+},
+
+{
+	"Name":"Samwell",
+	"House": "Tarley",
+	"Status": "Alive"
+}
+
+]
